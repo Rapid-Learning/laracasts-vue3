@@ -1,8 +1,7 @@
 <script setup>
 import TheWelcome from "@/components/TheWelcome.vue";
-import { ref } from "vue";
 
-let message = ref("Hello world")
+let message = $ref("Hello world")
 </script>
 
 <template>
