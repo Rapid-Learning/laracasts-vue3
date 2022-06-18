@@ -1,0 +1,16 @@
+{
+  "name": "lesson13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "start": "npx serve & npx json-server db.json -p 3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
