@@ -9,13 +9,13 @@ export default {
             <assignments></assignments>
 
             <panel theme="light">
-                <template v-slot:heading>
+                <template #heading>
                     Hi There
                 </template>
 
                 Hello Again
 
-                <template v-slot:footer>
+                <template #footer>
                     Click here to learn more
                 </template>
             </panel>
