@@ -1,0 +1,28 @@
+{
+    "assignments": [
+        { 
+            "id": 1,
+            "name": "Finish project", 
+            "complete": false, 
+            "tag": "math" 
+        },
+        { 
+            "id": 2,
+            "name": "Read chapter 6", 
+            "complete": false, 
+            "tag": "science" 
+        },        
+        { 
+            "id": 3,
+            "name": "Complete homework", 
+            "complete": false, 
+            "tag": "math" 
+        },
+        { 
+            "id": 4,
+            "name": "Learn vue 3", 
+            "complete": true, 
+            "tag": "programming" 
+        } 
+    ]
+}
